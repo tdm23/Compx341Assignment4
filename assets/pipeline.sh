@@ -19,7 +19,7 @@ fi
 echo "Test Good"
 
 git add .
-git commit -m "Task2 Part2"
+git commit -m "Added one comment"
 git push origin master
 git status
 

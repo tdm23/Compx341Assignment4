@@ -12,7 +12,7 @@ for subdir, dirs, files in os.walk("./src"):
 
             with open(file_path, mode='r') as f:
                 reader = f.readlines()
-                print(reader[0])
+                # print(reader[0])
                 if(reader[0] != "// Name: Thevinu Mathusinghe  ID: 1365619\n"):
                     print(0)
                     sys.exit(0)
