@@ -1,3 +1,5 @@
+// Name: Thevinu Mathusinghe  ID: 1365619
+
 import React, { Component } from "react";
 import { Redirect } from "react-router";
 import { CategoryNavBar } from "../category/categoryNavBar/CategoryNavBar";

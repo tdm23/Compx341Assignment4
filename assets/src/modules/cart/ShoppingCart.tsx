@@ -1,3 +1,5 @@
+// Name: Thevinu Mathusinghe  ID: 1365619
+
 import React, { Component } from "react";
 import { CategoryNavBar } from "../category/categoryNavBar/CategoryNavBar";
 import { SearchBar } from "../search/searchBar/SearchBar";

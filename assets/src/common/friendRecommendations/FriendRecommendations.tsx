@@ -1,3 +1,5 @@
+// Name: Thevinu Mathusinghe  ID: 1365619
+
 import { API } from 'aws-amplify';
 import React from 'react';
 import { FriendThumb } from './FriendThumb';

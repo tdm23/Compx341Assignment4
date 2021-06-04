@@ -1,3 +1,5 @@
+// Name: Thevinu Mathusinghe  ID: 1365619
+
 import React from "react";
 import "../../common/styles/gallery.css";
 import { LinkContainer } from "react-router-bootstrap";

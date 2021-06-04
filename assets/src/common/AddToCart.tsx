@@ -1,3 +1,5 @@
+// Name: Thevinu Mathusinghe  ID: 1365619
+
 import React from 'react';
 import { API } from 'aws-amplify';
 import { Redirect } from 'react-router';
